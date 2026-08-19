@@ -1,181 +1,4 @@
 product,segment,country,year,month_name,total_units_sold,total_gross_sales,total_discounts,total_net_sales,total_cogs,total_profit,profit_margin_pct,margin_category
-Carretera,Government,Germany,2014,January,1321.0,26420.0,0.0,26420.0,13210.0,13210.0,50.0,High Margin
-Carretera,Midmarket,France,2014,June,2178.0,32670.0,0.0,32670.0,21780.0,10890.0,33.33,High Margin
-Carretera,Midmarket,Germany,2014,June,888.0,13320.0,0.0,13320.0,8880.0,4440.0,33.33,High Margin
-Montana,Government,France,2014,June,1899.0,37980.0,0.0,37980.0,18990.0,18990.0,50.0,High Margin
-Montana,Channel Partners,Germany,2014,June,1545.0,18540.0,0.0,18540.0,4635.0,13905.0,75.0,High Margin
-Montana,Enterprise,Canada,2014,July,2665.5,333187.5,0.0,333187.5,319860.0,13327.5,4.0,Low Margin
-Montana,Midmarket,United States of America,2014,December,615.0,9225.0,0.0,9225.0,6150.0,3075.0,33.33,High Margin
-Paseo,Channel Partners,Germany,2014,July,367.0,4404.0,0.0,4404.0,1101.0,3303.0,75.0,High Margin
-Paseo,Midmarket,Canada,2013,December,2152.0,32280.0,0.0,32280.0,21520.0,10760.0,33.33,High Margin
-Paseo,Government,Germany,2014,December,3044.0,560170.0,3674.4,556495.6,408690.0,147805.6,26.56,High Margin
-Velo,Channel Partners,Germany,2014,June,1545.0,18540.0,0.0,18540.0,4635.0,13905.0,75.0,High Margin
-Velo,Enterprise,United States of America,2014,August,2821.0,352625.0,0.0,352625.0,338520.0,14105.0,4.0,Low Margin
-Velo,Enterprise,Canada,2013,October,345.0,43125.0,0.0,43125.0,41400.0,1725.0,4.0,Low Margin
-VTT,Small Business,Canada,2014,February,2001.0,600300.0,0.0,600300.0,500250.0,100050.0,16.67,Medium Margin
-VTT,Midmarket,France,2014,June,2178.0,32670.0,0.0,32670.0,21780.0,10890.0,33.33,High Margin
-VTT,Small Business,France,2014,September,2151.0,645300.0,0.0,645300.0,537750.0,107550.0,16.67,Medium Margin
-Amarilla,Government,France,2014,June,3089.0,46310.0,1082.9,45227.1,24940.0,20287.1,44.86,High Margin
-Amarilla,Channel Partners,United States of America,2014,August,2141.0,25692.0,0.0,25692.0,6423.0,19269.0,75.0,High Margin
-Paseo,Government,France,2014,May,1030.0,7210.0,72.1,7137.9,5150.0,1987.8999999999996,27.85,High Margin
-Carretera,Government,United States of America,2014,July,2529.0,17703.0,177.03,17525.97,12645.0,4880.969999999999,27.85,High Margin
-Carretera,Enterprise,United States of America,2013,September,330.0,41250.0,412.5,40837.5,39600.0,1237.5,3.03,Low Margin
-Carretera,Small Business,Mexico,2013,October,494.0,148200.0,1482.0,146718.0,123500.0,23218.0,15.82,Medium Margin
-Carretera,Government,France,2014,December,4642.0,771659.0,8412.95,763246.05,572735.0,190511.05,24.96,High Margin
-Montana,Midmarket,Mexico,2014,March,2214.0,33210.0,332.1,32877.9,22140.0,10737.900000000001,32.66,High Margin
-Montana,Small Business,United States of America,2014,April,2301.0,690300.0,6903.0,683397.0,575250.0,108147.0,15.82,Medium Margin
-Paseo,Midmarket,United States of America,2014,February,1514.0,22710.0,227.1,22482.9,15140.0,7342.9000000000015,32.66,High Margin
-Paseo,Enterprise,France,2014,June,787.0,98375.0,983.75,97391.25,94440.0,2951.25,3.03,Low Margin
-Paseo,Government,France,2014,December,2448.0,760110.0,8421.5,751688.5,563230.0,188458.5,25.07,High Margin
-Velo,Government,Mexico,2014,May,362.0,2534.0,25.34,2508.66,1810.0,698.6599999999999,27.85,High Margin
-VTT,Government,Germany,2014,March,263.0,1841.0,18.41,1822.59,1315.0,507.5899999999999,27.85,High Margin
-VTT,Enterprise,France,2014,November,1744.0,218000.0,2180.0,215820.0,209280.0,6540.0,3.03,Low Margin
-Amarilla,Channel Partners,United States of America,2013,September,1989.0,23868.0,238.68,23629.32,5967.0,17662.32,74.75,High Margin
-Amarilla,Midmarket,France,2013,November,321.0,4815.0,48.15,4766.85,3210.0,1556.8500000000004,32.66,High Margin
-Paseo,Channel Partners,United States of America,2014,June,1142.0,13704.0,274.08,13429.92,3426.0,10003.92,74.49,High Margin
-Paseo,Enterprise,Germany,2013,October,809.0,101125.0,2022.5,99102.5,97080.0,2022.5,2.04,Low Margin
-Paseo,Midmarket,United States of America,2013,December,1925.0,28875.0,577.5,28297.5,19250.0,9047.5,31.97,High Margin
-Velo,Enterprise,Germany,2013,October,809.0,101125.0,2022.5,99102.5,97080.0,2022.5,2.04,Low Margin
-Velo,Channel Partners,France,2014,December,1055.0,12660.0,253.2,12406.8,3165.0,9241.8,74.49,High Margin
-Velo,Channel Partners,Mexico,2014,December,1084.0,13008.0,260.16,12747.84,3252.0,9495.84,74.49,High Margin
-VTT,Enterprise,Mexico,2014,June,662.0,82750.0,1655.0,81095.0,79440.0,1655.0,2.04,Low Margin
-Amarilla,Government,United States of America,2014,November,1236.0,24720.0,494.4,24225.6,12360.0,11865.599999999999,48.98,High Margin
-Carretera,Government,Germany,2014,April,2580.0,51600.0,1548.0,50052.0,25800.0,24252.0,48.45,High Margin
-Montana,Enterprise,Germany,2014,December,1706.0,213250.0,6397.5,206852.5,204720.0,2132.5,1.03,Low Margin
-Paseo,Enterprise,Canada,2014,October,2009.0,251125.0,7533.75,243591.25,241080.0,2511.25,1.03,Low Margin
-VTT,Midmarket,Germany,2013,October,1945.0,29175.0,875.25,28299.75,19450.0,8849.75,31.27,High Margin
-Paseo,Government,Mexico,2013,September,1760.0,12320.0,369.6,11950.4,8800.0,3150.3999999999996,26.36,High Margin
-Velo,Government,Canada,2014,April,3850.5,77010.0,2310.3,74699.70000000001,38505.0,36194.700000000004,48.45,High Margin
-Carretera,Government,Canada,2013,October,2851.0,19957.0,798.28,19158.72,14255.0,4903.720000000001,25.6,High Margin
-Montana,Midmarket,Canada,2014,March,1967.0,29505.0,1180.2,28324.8,19670.0,8654.8,30.56,High Margin
-Paseo,Small Business,Germany,2014,April,1414.5,424350.0,16974.0,407376.0,353625.0,53751.0,13.19,Medium Margin
-Paseo,Midmarket,Mexico,2013,October,1514.0,22710.0,908.4,21801.6,15140.0,6661.5999999999985,30.56,High Margin
-Paseo,Enterprise,Mexico,2014,December,1138.0,142250.0,5690.0,136560.0,136560.0,0.0,0.0,Low Margin
-Velo,Government,France,2014,October,4153.0,801470.0,33244.4,768225.6,585780.0,182445.6,23.75,High Margin
-Montana,Government,Germany,2013,October,4151.0,67953.0,6988.049999999999,60964.95,35715.0,25249.949999999997,41.42,High Margin
-Paseo,Government,Canada,2013,September,2349.0,16443.0,822.15,15620.85,11745.0,3875.8500000000004,24.81,High Margin
-Carretera,Government,France,2014,May,1563.0,31260.0,1563.0,29697.0,15630.0,14067.0,47.37,High Margin
-Carretera,Small Business,United States of America,2014,June,991.0,297300.0,14865.0,282435.0,247750.0,34685.0,12.28,Medium Margin
-Montana,Government,Mexico,2013,September,720.0,252000.0,12600.0,239400.0,187200.0,52200.0,21.8,High Margin
-Paseo,Government,France,2014,February,1303.0,26060.0,1303.0,24757.0,13030.0,11727.0,47.37,High Margin
-Paseo,Enterprise,United States of America,2014,March,2992.0,374000.0,18700.0,355300.0,359040.0,-3740.0,-1.05,Low Margin
-Paseo,Government,Canada,2013,December,1802.0,36040.0,1802.0,34238.0,18020.0,16218.0,47.37,High Margin
-Paseo,Midmarket,Germany,2013,December,2116.0,31740.0,1587.0,30153.0,21160.0,8993.0,29.82,High Margin
-Velo,Midmarket,United States of America,2014,January,555.0,8325.0,416.25,7908.75,5550.0,2358.75,29.82,High Margin
-Velo,Government,France,2014,August,1579.0,31580.0,1579.0,30001.0,15790.0,14211.0,47.37,High Margin
-Velo,Enterprise,United States of America,2014,October,861.0,107625.0,5381.25,102243.75,103320.0,-1076.25,-1.05,Low Margin
-Velo,Enterprise,France,2013,October,704.0,88000.0,4400.0,83600.0,84480.0,-880.0,-1.05,Low Margin
-Velo,Small Business,Germany,2014,December,1250.0,375000.0,18750.0,356250.0,312500.0,43750.0,12.28,Medium Margin
-Paseo,Midmarket,France,2014,April,3801.0,57015.0,3420.8999999999996,53594.100000000006,38010.0,15584.100000000002,29.08,High Margin
-Carretera,Government,United States of America,2014,January,1117.5,22350.0,1341.0,21009.0,11175.0,9834.0,46.81,High Margin
-Carretera,Government,United States of America,2013,November,263.0,1841.0,110.46,1730.54,1315.0,415.53999999999996,24.01,High Margin
-Montana,Channel Partners,United States of America,2014,November,2723.0,32676.0,1960.56,30715.44,8169.0,22546.44,73.4,High Margin
-Paseo,Government,United States of America,2013,October,994.0,259790.0,16068.0,243722.0,191690.0,52032.0,21.35,High Margin
-Velo,Government,France,2014,June,2686.0,531930.0,32498.9,499431.1,394910.0,104521.1,20.93,High Margin
-VTT,Small Business,Canada,2013,December,2436.0,730800.0,43848.0,686952.0,609000.0,77952.0,11.35,Medium Margin
-Amarilla,Government,United States of America,2013,October,727.0,254450.0,15267.0,239183.0,189020.0,50163.0,20.97,High Margin
-Paseo,Midmarket,Germany,2014,August,1743.0,26145.0,1568.7,24576.3,17430.0,7146.299999999999,29.08,High Margin
-VTT,Channel Partners,France,2014,April,1738.5,20862.0,1460.34,19401.66,5215.5,14186.16,73.12,High Margin
-Carretera,Government,United States of America,2014,March,1761.0,616350.0,43144.5,573205.5,457860.0,115345.5,20.12,High Margin
-Montana,Government,France,2014,October,1976.0,39520.0,2766.4,36753.6,19760.0,16993.6,46.24,High Margin
-Montana,Small Business,France,2014,October,2181.0,654300.0,45801.0,608499.0,545250.0,63249.0,10.39,Medium Margin
-Paseo,Midmarket,United States of America,2013,September,2931.0,43965.0,3077.55,40887.45,29310.0,11577.449999999997,28.32,High Margin
-Paseo,Government,France,2014,September,1535.0,30700.0,2149.0,28551.0,15350.0,13201.0,46.24,High Margin
-Paseo,Small Business,Canada,2013,November,1404.0,421200.0,29484.0,391716.0,351000.0,40716.0,10.39,Medium Margin
-Paseo,Government,Germany,2013,December,2125.0,14875.0,1041.25,13833.75,10625.0,3208.75,23.2,High Margin
-Velo,Government,Germany,2013,December,588.0,11760.0,823.2,10936.8,5880.0,5056.799999999999,46.24,High Margin
-VTT,Channel Partners,Canada,2014,January,3244.5,38934.0,2725.38,36208.62,9733.5,26475.120000000003,73.12,High Margin
-VTT,Small Business,France,2014,February,959.0,287700.0,20139.0,267561.0,239750.0,27811.0,10.39,Medium Margin
-Amarilla,Government,Canada,2014,November,1118.0,22360.0,1565.2,20794.8,11180.0,9614.8,46.24,High Margin
-Amarilla,Small Business,United States of America,2014,December,1372.0,411600.0,28812.0,382788.0,343000.0,39788.0,10.39,Medium Margin
-Montana,Government,Canada,2014,February,488.0,3416.0,273.28,3142.7200000000003,2440.0,702.7200000000003,22.36,High Margin
-Carretera,Government,Mexico,2014,December,1883.0,480347.0,38464.23,441882.77,356725.0,85157.77,19.27,Medium Margin
-Montana,Midmarket,France,2014,March,2501.0,37515.0,3001.2,34513.8,25010.0,9503.800000000003,27.54,High Margin
-Montana,Government,Germany,2014,July,645.0,12900.0,1032.0,11868.0,6450.0,5418.0,45.65,High Margin
-Montana,Small Business,France,2014,August,1562.0,468600.0,37488.0,431112.0,390500.0,40612.0,9.42,Low Margin
-Montana,Midmarket,Germany,2014,December,711.0,10665.0,853.2,9811.8,7110.0,2701.7999999999993,27.54,High Margin
-Paseo,Government,Germany,2014,May,1095.0,7665.0,613.2,7051.8,5475.0,1576.8000000000002,22.36,High Margin
-Paseo,Small Business,Mexico,2014,June,2460.0,738000.0,59040.0,678960.0,615000.0,63960.0,9.42,Low Margin
-Paseo,Government,Germany,2013,September,2409.0,16863.0,1349.04,15513.96,12045.0,3468.959999999999,22.36,High Margin
-Paseo,Government,Germany,2014,September,1934.0,38680.0,3094.4,35585.6,19340.0,16245.599999999999,45.65,High Margin
-Paseo,Government,Mexico,2014,September,2993.0,59860.0,4788.8,55071.2,29930.0,25141.199999999997,45.65,High Margin
-Paseo,Government,Mexico,2013,December,1946.0,13622.0,1089.76,12532.24,9730.0,2802.24,22.36,High Margin
-Paseo,Government,Mexico,2014,December,2595.0,501360.0,41095.2,460264.8,366450.0,93814.8,20.38,High Margin
-Velo,Channel Partners,Canada,2014,March,598.0,7176.0,574.08,6601.92,1794.0,4807.92,72.83,High Margin
-Velo,Small Business,France,2013,November,386.0,115800.0,9264.0,106536.0,96500.0,10036.0,9.42,Low Margin
-VTT,Government,France,2014,April,574.5,201075.0,16086.0,184989.0,149370.0,35619.0,19.25,Medium Margin
-VTT,Small Business,Canada,2014,September,2134.0,640200.0,51216.0,588984.0,533500.0,55484.0,9.42,Low Margin
-Amarilla,Government,Germany,2014,November,1520.0,30400.0,2432.0,27968.0,15200.0,12768.0,45.65,High Margin
-Amarilla,Midmarket,Germany,2014,December,711.0,10665.0,853.2,9811.8,7110.0,2701.7999999999993,27.54,High Margin
-Amarilla,Channel Partners,Mexico,2013,December,1375.0,16500.0,1320.0,15180.0,4125.0,11055.0,72.83,High Margin
-Amarilla,Small Business,Mexico,2014,December,635.0,190500.0,15240.0,175260.0,158750.0,16510.0,9.42,Low Margin
-VTT,Government,United States of America,2014,July,436.5,8730.0,698.4000000000001,8031.599999999999,4365.0,3666.5999999999995,45.65,High Margin
-Carretera,Small Business,Canada,2014,June,1094.0,328200.0,29538.0,298662.0,273500.0,25162.0,8.42,Low Margin
-Montana,Government,Canada,2013,December,1611.0,11277.0,1014.93,10262.07,8055.0,2207.0699999999997,21.51,High Margin
-Paseo,Channel Partners,Mexico,2013,October,367.0,4404.0,396.36,4007.64,1101.0,2906.64,72.53,High Margin
-Paseo,Small Business,France,2014,November,1324.0,397200.0,35748.0,361452.0,331000.0,30452.0,8.42,Low Margin
-Paseo,Channel Partners,Germany,2013,November,1775.0,21300.0,1917.0,19383.0,5325.0,14058.0,72.53,High Margin
-Velo,Government,Germany,2014,July,1307.0,457450.0,41170.5,416279.5,339820.0,76459.5,18.37,Medium Margin
-Velo,Enterprise,Mexico,2014,September,2110.0,263750.0,23737.5,240012.5,253200.0,-13187.5,-5.49,Low Margin
-VTT,Government,United States of America,2014,April,1351.5,473025.0,42572.25,430452.75,351390.0,79062.75,18.37,Medium Margin
-VTT,Midmarket,France,2014,October,1227.0,18405.0,1656.45,16748.55,12270.0,4478.549999999999,26.74,High Margin
-Amarilla,Midmarket,Germany,2013,November,970.0,14550.0,1309.5,13240.5,9700.0,3540.5,26.74,High Margin
-Amarilla,Government,Mexico,2014,November,1694.0,33880.0,3049.2,30830.8,16940.0,13890.8,45.05,High Margin
-VTT,Government,France,2013,November,2682.0,53640.0,4827.6,48812.4,26820.0,21992.4,45.05,High Margin
-Amarilla,Channel Partners,France,2013,December,306.0,3672.0,330.48,3341.52,918.0,2423.52,72.53,High Margin
-Velo,Small Business,United States of America,2013,October,2294.0,688200.0,68820.0,619380.0,573500.0,45880.0,7.41,Low Margin
-Velo,Small Business,France,2014,December,853.0,255900.0,25590.0,230310.0,213250.0,17060.0,7.41,Low Margin
-Amarilla,Enterprise,United States of America,2014,January,579.0,72375.0,7237.5,65137.5,69480.0,-4342.5,-6.67,Low Margin
-Velo,Channel Partners,Germany,2014,October,472.0,5664.0,623.04,5040.96,1416.0,3624.96,71.91,High Margin
-VTT,Government,United States of America,2014,March,1579.0,11053.0,1215.83,9837.17,7895.0,1942.17,19.74,Medium Margin
-VTT,Channel Partners,Mexico,2013,September,1005.0,12060.0,1326.6,10733.4,3015.0,7718.4,71.91,High Margin
-Carretera,Government,Germany,2014,March,792.0,277200.0,30492.0,246708.0,205920.0,40788.0,16.53,Medium Margin
-Carretera,Government,Mexico,2013,November,2706.0,18942.0,2083.62,16858.38,13530.0,3328.380000000001,19.74,Medium Margin
-Montana,Government,Germany,2014,January,766.0,268100.0,29491.0,238609.0,199160.0,39449.0,16.53,Medium Margin
-Paseo,Channel Partners,Canada,2014,July,4026.0,48312.0,5314.32,42997.68,12078.0,30919.68,71.91,High Margin
-Paseo,Channel Partners,France,2014,July,2425.5,29106.0,3201.66,25904.340000000004,7276.5,18627.840000000004,71.91,High Margin
-Paseo,Enterprise,France,2014,October,2441.0,305125.0,33563.75,271561.25,292920.0,-21358.75,-7.87,Low Margin
-Paseo,Small Business,Canada,2014,November,1366.0,409800.0,45078.0,364722.0,341500.0,23222.0,6.37,Low Margin
-VTT,Channel Partners,France,2014,January,1734.0,20808.0,2288.88,18519.12,5202.0,13317.119999999999,71.91,High Margin
-Carretera,Midmarket,Canada,2014,November,2689.0,40335.0,4840.2,35494.8,26890.0,8604.800000000003,24.24,High Margin
-Paseo,Small Business,United States of America,2014,January,3495.0,1048500.0,125820.0,922680.0,873750.0,48930.0,5.3,Low Margin
-VTT,Government,France,2014,March,1491.0,10437.0,1252.44,9184.56,7455.0,1729.5599999999995,18.83,Medium Margin
-Amarilla,Channel Partners,Canada,2013,September,2761.0,33132.0,3975.84,29156.16,8283.0,20873.16,71.59,High Margin
-Montana,Channel Partners,Mexico,2014,June,604.0,7248.0,942.24,6305.76,1812.0,4493.76,71.26,High Margin
-Paseo,Small Business,Germany,2014,January,807.0,242100.0,31473.0,210627.0,201750.0,8877.0,4.21,Low Margin
-Paseo,Government,Germany,2014,February,2708.0,54160.0,7040.8,47119.2,27080.0,20039.199999999997,42.53,High Margin
-Paseo,Enterprise,Canada,2014,June,1583.0,197875.0,25723.75,172151.25,189960.0,-17808.75,-10.34,Low Margin
-Paseo,Channel Partners,Mexico,2014,July,571.0,6852.0,890.76,5961.24,1713.0,4248.24,71.26,High Margin
-Paseo,Midmarket,Canada,2014,October,1565.0,23475.0,3051.75,20423.25,15650.0,4773.25,23.37,High Margin
-Velo,Midmarket,Germany,2013,September,660.0,9900.0,1287.0,8613.0,6600.0,2013.0,23.37,High Margin
-Velo,Small Business,Mexico,2013,November,2605.0,781500.0,101595.0,679905.0,651250.0,28655.0,4.21,Low Margin
-Amarilla,Enterprise,Canada,2014,January,1659.0,207375.0,26958.75,180416.25,199080.0,-18663.75,-10.34,Low Margin
-Amarilla,Channel Partners,Germany,2013,December,1770.0,21240.0,2761.2,18478.8,5310.0,13168.8,71.26,High Margin
-Paseo,Midmarket,United States of America,2014,September,1767.0,26505.0,3710.7,22794.3,17670.0,5124.299999999999,22.48,High Margin
-Amarilla,Channel Partners,France,2014,October,1393.0,16716.0,2340.24,14375.76,4179.0,10196.76,70.93,High Margin
-Amarilla,Channel Partners,United States of America,2013,December,2015.0,24180.0,3385.2,20794.8,6045.0,14749.8,70.93,High Margin
-Carretera,Small Business,Canada,2014,October,1496.0,448800.0,62832.0,385968.0,374000.0,11968.0,3.1,Low Margin
-Carretera,Small Business,United States of America,2014,October,1010.0,303000.0,42420.0,260580.0,252500.0,8080.0,3.1,Low Margin
-Montana,Government,Germany,2014,April,1199.0,419650.0,58751.0,360899.0,311740.0,49159.0,13.62,Medium Margin
-Montana,Government,Canada,2014,May,200.0,70000.0,9800.0,60200.0,52000.0,8200.0,13.62,Medium Margin
-Montana,Government,Canada,2014,September,388.0,2716.0,380.24,2335.76,1940.0,395.7600000000002,16.94,Medium Margin
-Paseo,Government,Mexico,2014,February,260.0,5200.0,728.0,4472.0,2600.0,1872.0,41.86,High Margin
-Paseo,Midmarket,Canada,2013,September,2470.0,37050.0,5187.0,31863.0,24700.0,7163.0,22.48,High Margin
-Paseo,Channel Partners,United States of America,2014,October,2914.0,34968.0,4895.52,30072.48,8742.0,21330.48,70.93,High Margin
-Paseo,Government,Canada,2014,November,700.0,245000.0,34300.0,210700.0,182000.0,28700.0,13.62,Medium Margin
-Paseo,Channel Partners,Canada,2013,November,2222.0,26664.0,3732.96,22931.04,6666.0,16265.04,70.93,High Margin
-Paseo,Government,United States of America,2014,November,1177.0,411950.0,57673.0,354277.0,306020.0,48257.0,13.62,Medium Margin
-Velo,Enterprise,Mexico,2014,February,1575.0,196875.0,27562.5,169312.5,189000.0,-19687.5,-11.63,Low Margin
-VTT,Government,Mexico,2014,March,2903.0,20321.0,2844.94,17476.06,14515.0,2961.0600000000013,16.94,Medium Margin
-Amarilla,Channel Partners,France,2014,August,2475.0,29700.0,4158.0,25542.0,7425.0,18117.0,70.93,High Margin
-Amarilla,Channel Partners,United States of America,2014,October,2914.0,34968.0,4895.52,30072.48,8742.0,21330.48,70.93,High Margin
-Amarilla,Government,France,2014,October,1731.0,12117.0,1696.38,10420.619999999999,8655.0,1765.619999999999,16.94,Medium Margin
-Paseo,Government,Mexico,2014,May,2851.0,997850.0,149677.5,848172.5,741260.0,106912.5,12.61,Medium Margin
-Paseo,Midmarket,Canada,2014,August,2559.0,38385.0,5757.75,32627.25,25590.0,7037.25,21.57,High Margin
-Paseo,Midmarket,Germany,2014,October,1175.0,17625.0,2643.75,14981.25,11750.0,3231.25,21.57,High Margin
-Velo,Midmarket,France,2014,May,2826.0,42390.0,6358.5,36031.5,28260.0,7771.5,21.57,High Margin
-VTT,Midmarket,Germany,2014,July,492.0,7380.0,1107.0,6273.0,4920.0,1353.0,21.57,High Margin
-VTT,Channel Partners,United States of America,2014,May,1806.0,21672.0,3250.8,18421.2,5418.0,13003.2,70.59,High Margin
 Carretera,Government,Germany,2014,December,1793.0,531510.0,274.4,531235.6,394780.0,136455.6,25.69,High Margin
 Montana,Midmarket,Germany,2014,March,921.0,13815.0,0.0,13815.0,9210.0,4605.0,33.33,High Margin
 Montana,Small Business,Mexico,2014,August,958.0,287400.0,0.0,287400.0,239500.0,47900.0,16.67,Medium Margin
@@ -659,3 +482,180 @@ VTT,Midmarket,Germany,2014,October,1175.0,17625.0,2643.75,14981.25,11750.0,3231.
 VTT,Enterprise,Germany,2014,November,552.0,69000.0,10350.0,58650.0,66240.0,-7590.0,-12.94,Low Margin
 Amarilla,Small Business,France,2014,March,2475.0,742500.0,111375.0,631125.0,618750.0,12375.0,1.96,Low Margin
 Montana,Government,Mexico,2014,February,1368.0,9576.0,1436.4,8139.6,6840.0,1299.6000000000004,15.97,Medium Margin
+Carretera,Government,Germany,2014,January,1321.0,26420.0,0.0,26420.0,13210.0,13210.0,50.0,High Margin
+Carretera,Midmarket,France,2014,June,2178.0,32670.0,0.0,32670.0,21780.0,10890.0,33.33,High Margin
+Carretera,Midmarket,Germany,2014,June,888.0,13320.0,0.0,13320.0,8880.0,4440.0,33.33,High Margin
+Montana,Government,France,2014,June,1899.0,37980.0,0.0,37980.0,18990.0,18990.0,50.0,High Margin
+Montana,Channel Partners,Germany,2014,June,1545.0,18540.0,0.0,18540.0,4635.0,13905.0,75.0,High Margin
+Montana,Enterprise,Canada,2014,July,2665.5,333187.5,0.0,333187.5,319860.0,13327.5,4.0,Low Margin
+Montana,Midmarket,United States of America,2014,December,615.0,9225.0,0.0,9225.0,6150.0,3075.0,33.33,High Margin
+Paseo,Channel Partners,Germany,2014,July,367.0,4404.0,0.0,4404.0,1101.0,3303.0,75.0,High Margin
+Paseo,Midmarket,Canada,2013,December,2152.0,32280.0,0.0,32280.0,21520.0,10760.0,33.33,High Margin
+Paseo,Government,Germany,2014,December,3044.0,560170.0,3674.4,556495.6,408690.0,147805.6,26.56,High Margin
+Velo,Channel Partners,Germany,2014,June,1545.0,18540.0,0.0,18540.0,4635.0,13905.0,75.0,High Margin
+Velo,Enterprise,United States of America,2014,August,2821.0,352625.0,0.0,352625.0,338520.0,14105.0,4.0,Low Margin
+Velo,Enterprise,Canada,2013,October,345.0,43125.0,0.0,43125.0,41400.0,1725.0,4.0,Low Margin
+VTT,Small Business,Canada,2014,February,2001.0,600300.0,0.0,600300.0,500250.0,100050.0,16.67,Medium Margin
+VTT,Midmarket,France,2014,June,2178.0,32670.0,0.0,32670.0,21780.0,10890.0,33.33,High Margin
+VTT,Small Business,France,2014,September,2151.0,645300.0,0.0,645300.0,537750.0,107550.0,16.67,Medium Margin
+Amarilla,Government,France,2014,June,3089.0,46310.0,1082.9,45227.1,24940.0,20287.1,44.86,High Margin
+Amarilla,Channel Partners,United States of America,2014,August,2141.0,25692.0,0.0,25692.0,6423.0,19269.0,75.0,High Margin
+Paseo,Government,France,2014,May,1030.0,7210.0,72.1,7137.9,5150.0,1987.8999999999996,27.85,High Margin
+Carretera,Government,United States of America,2014,July,2529.0,17703.0,177.03,17525.97,12645.0,4880.969999999999,27.85,High Margin
+Carretera,Enterprise,United States of America,2013,September,330.0,41250.0,412.5,40837.5,39600.0,1237.5,3.03,Low Margin
+Carretera,Small Business,Mexico,2013,October,494.0,148200.0,1482.0,146718.0,123500.0,23218.0,15.82,Medium Margin
+Carretera,Government,France,2014,December,4642.0,771659.0,8412.95,763246.05,572735.0,190511.05,24.96,High Margin
+Montana,Midmarket,Mexico,2014,March,2214.0,33210.0,332.1,32877.9,22140.0,10737.900000000001,32.66,High Margin
+Montana,Small Business,United States of America,2014,April,2301.0,690300.0,6903.0,683397.0,575250.0,108147.0,15.82,Medium Margin
+Paseo,Midmarket,United States of America,2014,February,1514.0,22710.0,227.1,22482.9,15140.0,7342.9000000000015,32.66,High Margin
+Paseo,Enterprise,France,2014,June,787.0,98375.0,983.75,97391.25,94440.0,2951.25,3.03,Low Margin
+Paseo,Government,France,2014,December,2448.0,760110.0,8421.5,751688.5,563230.0,188458.5,25.07,High Margin
+Velo,Government,Mexico,2014,May,362.0,2534.0,25.34,2508.66,1810.0,698.6599999999999,27.85,High Margin
+VTT,Government,Germany,2014,March,263.0,1841.0,18.41,1822.59,1315.0,507.5899999999999,27.85,High Margin
+VTT,Enterprise,France,2014,November,1744.0,218000.0,2180.0,215820.0,209280.0,6540.0,3.03,Low Margin
+Amarilla,Channel Partners,United States of America,2013,September,1989.0,23868.0,238.68,23629.32,5967.0,17662.32,74.75,High Margin
+Amarilla,Midmarket,France,2013,November,321.0,4815.0,48.15,4766.85,3210.0,1556.8500000000004,32.66,High Margin
+Paseo,Channel Partners,United States of America,2014,June,1142.0,13704.0,274.08,13429.92,3426.0,10003.92,74.49,High Margin
+Paseo,Enterprise,Germany,2013,October,809.0,101125.0,2022.5,99102.5,97080.0,2022.5,2.04,Low Margin
+Paseo,Midmarket,United States of America,2013,December,1925.0,28875.0,577.5,28297.5,19250.0,9047.5,31.97,High Margin
+Velo,Enterprise,Germany,2013,October,809.0,101125.0,2022.5,99102.5,97080.0,2022.5,2.04,Low Margin
+Velo,Channel Partners,France,2014,December,1055.0,12660.0,253.2,12406.8,3165.0,9241.8,74.49,High Margin
+Velo,Channel Partners,Mexico,2014,December,1084.0,13008.0,260.16,12747.84,3252.0,9495.84,74.49,High Margin
+VTT,Enterprise,Mexico,2014,June,662.0,82750.0,1655.0,81095.0,79440.0,1655.0,2.04,Low Margin
+Amarilla,Government,United States of America,2014,November,1236.0,24720.0,494.4,24225.6,12360.0,11865.599999999999,48.98,High Margin
+Carretera,Government,Germany,2014,April,2580.0,51600.0,1548.0,50052.0,25800.0,24252.0,48.45,High Margin
+Montana,Enterprise,Germany,2014,December,1706.0,213250.0,6397.5,206852.5,204720.0,2132.5,1.03,Low Margin
+Paseo,Enterprise,Canada,2014,October,2009.0,251125.0,7533.75,243591.25,241080.0,2511.25,1.03,Low Margin
+VTT,Midmarket,Germany,2013,October,1945.0,29175.0,875.25,28299.75,19450.0,8849.75,31.27,High Margin
+Paseo,Government,Mexico,2013,September,1760.0,12320.0,369.6,11950.4,8800.0,3150.3999999999996,26.36,High Margin
+Velo,Government,Canada,2014,April,3850.5,77010.0,2310.3,74699.70000000001,38505.0,36194.700000000004,48.45,High Margin
+Carretera,Government,Canada,2013,October,2851.0,19957.0,798.28,19158.72,14255.0,4903.720000000001,25.6,High Margin
+Montana,Midmarket,Canada,2014,March,1967.0,29505.0,1180.2,28324.8,19670.0,8654.8,30.56,High Margin
+Paseo,Small Business,Germany,2014,April,1414.5,424350.0,16974.0,407376.0,353625.0,53751.0,13.19,Medium Margin
+Paseo,Midmarket,Mexico,2013,October,1514.0,22710.0,908.4,21801.6,15140.0,6661.5999999999985,30.56,High Margin
+Paseo,Enterprise,Mexico,2014,December,1138.0,142250.0,5690.0,136560.0,136560.0,0.0,0.0,Low Margin
+Velo,Government,France,2014,October,4153.0,801470.0,33244.4,768225.6,585780.0,182445.6,23.75,High Margin
+Montana,Government,Germany,2013,October,4151.0,67953.0,6988.049999999999,60964.95,35715.0,25249.949999999997,41.42,High Margin
+Paseo,Government,Canada,2013,September,2349.0,16443.0,822.15,15620.85,11745.0,3875.8500000000004,24.81,High Margin
+Carretera,Government,France,2014,May,1563.0,31260.0,1563.0,29697.0,15630.0,14067.0,47.37,High Margin
+Carretera,Small Business,United States of America,2014,June,991.0,297300.0,14865.0,282435.0,247750.0,34685.0,12.28,Medium Margin
+Montana,Government,Mexico,2013,September,720.0,252000.0,12600.0,239400.0,187200.0,52200.0,21.8,High Margin
+Paseo,Government,France,2014,February,1303.0,26060.0,1303.0,24757.0,13030.0,11727.0,47.37,High Margin
+Paseo,Enterprise,United States of America,2014,March,2992.0,374000.0,18700.0,355300.0,359040.0,-3740.0,-1.05,Low Margin
+Paseo,Government,Canada,2013,December,1802.0,36040.0,1802.0,34238.0,18020.0,16218.0,47.37,High Margin
+Paseo,Midmarket,Germany,2013,December,2116.0,31740.0,1587.0,30153.0,21160.0,8993.0,29.82,High Margin
+Velo,Midmarket,United States of America,2014,January,555.0,8325.0,416.25,7908.75,5550.0,2358.75,29.82,High Margin
+Velo,Government,France,2014,August,1579.0,31580.0,1579.0,30001.0,15790.0,14211.0,47.37,High Margin
+Velo,Enterprise,United States of America,2014,October,861.0,107625.0,5381.25,102243.75,103320.0,-1076.25,-1.05,Low Margin
+Velo,Enterprise,France,2013,October,704.0,88000.0,4400.0,83600.0,84480.0,-880.0,-1.05,Low Margin
+Velo,Small Business,Germany,2014,December,1250.0,375000.0,18750.0,356250.0,312500.0,43750.0,12.28,Medium Margin
+Paseo,Midmarket,France,2014,April,3801.0,57015.0,3420.8999999999996,53594.100000000006,38010.0,15584.100000000002,29.08,High Margin
+Carretera,Government,United States of America,2014,January,1117.5,22350.0,1341.0,21009.0,11175.0,9834.0,46.81,High Margin
+Carretera,Government,United States of America,2013,November,263.0,1841.0,110.46,1730.54,1315.0,415.53999999999996,24.01,High Margin
+Montana,Channel Partners,United States of America,2014,November,2723.0,32676.0,1960.56,30715.44,8169.0,22546.44,73.4,High Margin
+Paseo,Government,United States of America,2013,October,994.0,259790.0,16068.0,243722.0,191690.0,52032.0,21.35,High Margin
+Velo,Government,France,2014,June,2686.0,531930.0,32498.9,499431.1,394910.0,104521.1,20.93,High Margin
+VTT,Small Business,Canada,2013,December,2436.0,730800.0,43848.0,686952.0,609000.0,77952.0,11.35,Medium Margin
+Amarilla,Government,United States of America,2013,October,727.0,254450.0,15267.0,239183.0,189020.0,50163.0,20.97,High Margin
+Paseo,Midmarket,Germany,2014,August,1743.0,26145.0,1568.7,24576.3,17430.0,7146.299999999999,29.08,High Margin
+VTT,Channel Partners,France,2014,April,1738.5,20862.0,1460.34,19401.66,5215.5,14186.16,73.12,High Margin
+Carretera,Government,United States of America,2014,March,1761.0,616350.0,43144.5,573205.5,457860.0,115345.5,20.12,High Margin
+Montana,Government,France,2014,October,1976.0,39520.0,2766.4,36753.6,19760.0,16993.6,46.24,High Margin
+Montana,Small Business,France,2014,October,2181.0,654300.0,45801.0,608499.0,545250.0,63249.0,10.39,Medium Margin
+Paseo,Midmarket,United States of America,2013,September,2931.0,43965.0,3077.55,40887.45,29310.0,11577.449999999997,28.32,High Margin
+Paseo,Government,France,2014,September,1535.0,30700.0,2149.0,28551.0,15350.0,13201.0,46.24,High Margin
+Paseo,Small Business,Canada,2013,November,1404.0,421200.0,29484.0,391716.0,351000.0,40716.0,10.39,Medium Margin
+Paseo,Government,Germany,2013,December,2125.0,14875.0,1041.25,13833.75,10625.0,3208.75,23.2,High Margin
+Velo,Government,Germany,2013,December,588.0,11760.0,823.2,10936.8,5880.0,5056.799999999999,46.24,High Margin
+VTT,Channel Partners,Canada,2014,January,3244.5,38934.0,2725.38,36208.62,9733.5,26475.120000000003,73.12,High Margin
+VTT,Small Business,France,2014,February,959.0,287700.0,20139.0,267561.0,239750.0,27811.0,10.39,Medium Margin
+Amarilla,Government,Canada,2014,November,1118.0,22360.0,1565.2,20794.8,11180.0,9614.8,46.24,High Margin
+Amarilla,Small Business,United States of America,2014,December,1372.0,411600.0,28812.0,382788.0,343000.0,39788.0,10.39,Medium Margin
+Montana,Government,Canada,2014,February,488.0,3416.0,273.28,3142.7200000000003,2440.0,702.7200000000003,22.36,High Margin
+Carretera,Government,Mexico,2014,December,1883.0,480347.0,38464.23,441882.77,356725.0,85157.77,19.27,Medium Margin
+Montana,Midmarket,France,2014,March,2501.0,37515.0,3001.2,34513.8,25010.0,9503.800000000003,27.54,High Margin
+Montana,Government,Germany,2014,July,645.0,12900.0,1032.0,11868.0,6450.0,5418.0,45.65,High Margin
+Montana,Small Business,France,2014,August,1562.0,468600.0,37488.0,431112.0,390500.0,40612.0,9.42,Low Margin
+Montana,Midmarket,Germany,2014,December,711.0,10665.0,853.2,9811.8,7110.0,2701.7999999999993,27.54,High Margin
+Paseo,Government,Germany,2014,May,1095.0,7665.0,613.2,7051.8,5475.0,1576.8000000000002,22.36,High Margin
+Paseo,Small Business,Mexico,2014,June,2460.0,738000.0,59040.0,678960.0,615000.0,63960.0,9.42,Low Margin
+Paseo,Government,Germany,2013,September,2409.0,16863.0,1349.04,15513.96,12045.0,3468.959999999999,22.36,High Margin
+Paseo,Government,Germany,2014,September,1934.0,38680.0,3094.4,35585.6,19340.0,16245.599999999999,45.65,High Margin
+Paseo,Government,Mexico,2014,September,2993.0,59860.0,4788.8,55071.2,29930.0,25141.199999999997,45.65,High Margin
+Paseo,Government,Mexico,2013,December,1946.0,13622.0,1089.76,12532.24,9730.0,2802.24,22.36,High Margin
+Paseo,Government,Mexico,2014,December,2595.0,501360.0,41095.2,460264.8,366450.0,93814.8,20.38,High Margin
+Velo,Channel Partners,Canada,2014,March,598.0,7176.0,574.08,6601.92,1794.0,4807.92,72.83,High Margin
+Velo,Small Business,France,2013,November,386.0,115800.0,9264.0,106536.0,96500.0,10036.0,9.42,Low Margin
+VTT,Government,France,2014,April,574.5,201075.0,16086.0,184989.0,149370.0,35619.0,19.25,Medium Margin
+VTT,Small Business,Canada,2014,September,2134.0,640200.0,51216.0,588984.0,533500.0,55484.0,9.42,Low Margin
+Amarilla,Government,Germany,2014,November,1520.0,30400.0,2432.0,27968.0,15200.0,12768.0,45.65,High Margin
+Amarilla,Midmarket,Germany,2014,December,711.0,10665.0,853.2,9811.8,7110.0,2701.7999999999993,27.54,High Margin
+Amarilla,Channel Partners,Mexico,2013,December,1375.0,16500.0,1320.0,15180.0,4125.0,11055.0,72.83,High Margin
+Amarilla,Small Business,Mexico,2014,December,635.0,190500.0,15240.0,175260.0,158750.0,16510.0,9.42,Low Margin
+VTT,Government,United States of America,2014,July,436.5,8730.0,698.4000000000001,8031.599999999999,4365.0,3666.5999999999995,45.65,High Margin
+Carretera,Small Business,Canada,2014,June,1094.0,328200.0,29538.0,298662.0,273500.0,25162.0,8.42,Low Margin
+Montana,Government,Canada,2013,December,1611.0,11277.0,1014.93,10262.07,8055.0,2207.0699999999997,21.51,High Margin
+Paseo,Channel Partners,Mexico,2013,October,367.0,4404.0,396.36,4007.64,1101.0,2906.64,72.53,High Margin
+Paseo,Small Business,France,2014,November,1324.0,397200.0,35748.0,361452.0,331000.0,30452.0,8.42,Low Margin
+Paseo,Channel Partners,Germany,2013,November,1775.0,21300.0,1917.0,19383.0,5325.0,14058.0,72.53,High Margin
+Velo,Government,Germany,2014,July,1307.0,457450.0,41170.5,416279.5,339820.0,76459.5,18.37,Medium Margin
+Velo,Enterprise,Mexico,2014,September,2110.0,263750.0,23737.5,240012.5,253200.0,-13187.5,-5.49,Low Margin
+VTT,Government,United States of America,2014,April,1351.5,473025.0,42572.25,430452.75,351390.0,79062.75,18.37,Medium Margin
+VTT,Midmarket,France,2014,October,1227.0,18405.0,1656.45,16748.55,12270.0,4478.549999999999,26.74,High Margin
+Amarilla,Midmarket,Germany,2013,November,970.0,14550.0,1309.5,13240.5,9700.0,3540.5,26.74,High Margin
+Amarilla,Government,Mexico,2014,November,1694.0,33880.0,3049.2,30830.8,16940.0,13890.8,45.05,High Margin
+VTT,Government,France,2013,November,2682.0,53640.0,4827.6,48812.4,26820.0,21992.4,45.05,High Margin
+Amarilla,Channel Partners,France,2013,December,306.0,3672.0,330.48,3341.52,918.0,2423.52,72.53,High Margin
+Velo,Small Business,United States of America,2013,October,2294.0,688200.0,68820.0,619380.0,573500.0,45880.0,7.41,Low Margin
+Velo,Small Business,France,2014,December,853.0,255900.0,25590.0,230310.0,213250.0,17060.0,7.41,Low Margin
+Amarilla,Enterprise,United States of America,2014,January,579.0,72375.0,7237.5,65137.5,69480.0,-4342.5,-6.67,Low Margin
+Velo,Channel Partners,Germany,2014,October,472.0,5664.0,623.04,5040.96,1416.0,3624.96,71.91,High Margin
+VTT,Government,United States of America,2014,March,1579.0,11053.0,1215.83,9837.17,7895.0,1942.17,19.74,Medium Margin
+VTT,Channel Partners,Mexico,2013,September,1005.0,12060.0,1326.6,10733.4,3015.0,7718.4,71.91,High Margin
+Carretera,Government,Germany,2014,March,792.0,277200.0,30492.0,246708.0,205920.0,40788.0,16.53,Medium Margin
+Carretera,Government,Mexico,2013,November,2706.0,18942.0,2083.62,16858.38,13530.0,3328.380000000001,19.74,Medium Margin
+Montana,Government,Germany,2014,January,766.0,268100.0,29491.0,238609.0,199160.0,39449.0,16.53,Medium Margin
+Paseo,Channel Partners,Canada,2014,July,4026.0,48312.0,5314.32,42997.68,12078.0,30919.68,71.91,High Margin
+Paseo,Channel Partners,France,2014,July,2425.5,29106.0,3201.66,25904.340000000004,7276.5,18627.840000000004,71.91,High Margin
+Paseo,Enterprise,France,2014,October,2441.0,305125.0,33563.75,271561.25,292920.0,-21358.75,-7.87,Low Margin
+Paseo,Small Business,Canada,2014,November,1366.0,409800.0,45078.0,364722.0,341500.0,23222.0,6.37,Low Margin
+VTT,Channel Partners,France,2014,January,1734.0,20808.0,2288.88,18519.12,5202.0,13317.119999999999,71.91,High Margin
+Carretera,Midmarket,Canada,2014,November,2689.0,40335.0,4840.2,35494.8,26890.0,8604.800000000003,24.24,High Margin
+Paseo,Small Business,United States of America,2014,January,3495.0,1048500.0,125820.0,922680.0,873750.0,48930.0,5.3,Low Margin
+VTT,Government,France,2014,March,1491.0,10437.0,1252.44,9184.56,7455.0,1729.5599999999995,18.83,Medium Margin
+Amarilla,Channel Partners,Canada,2013,September,2761.0,33132.0,3975.84,29156.16,8283.0,20873.16,71.59,High Margin
+Montana,Channel Partners,Mexico,2014,June,604.0,7248.0,942.24,6305.76,1812.0,4493.76,71.26,High Margin
+Paseo,Small Business,Germany,2014,January,807.0,242100.0,31473.0,210627.0,201750.0,8877.0,4.21,Low Margin
+Paseo,Government,Germany,2014,February,2708.0,54160.0,7040.8,47119.2,27080.0,20039.199999999997,42.53,High Margin
+Paseo,Enterprise,Canada,2014,June,1583.0,197875.0,25723.75,172151.25,189960.0,-17808.75,-10.34,Low Margin
+Paseo,Channel Partners,Mexico,2014,July,571.0,6852.0,890.76,5961.24,1713.0,4248.24,71.26,High Margin
+Paseo,Midmarket,Canada,2014,October,1565.0,23475.0,3051.75,20423.25,15650.0,4773.25,23.37,High Margin
+Velo,Midmarket,Germany,2013,September,660.0,9900.0,1287.0,8613.0,6600.0,2013.0,23.37,High Margin
+Velo,Small Business,Mexico,2013,November,2605.0,781500.0,101595.0,679905.0,651250.0,28655.0,4.21,Low Margin
+Amarilla,Enterprise,Canada,2014,January,1659.0,207375.0,26958.75,180416.25,199080.0,-18663.75,-10.34,Low Margin
+Amarilla,Channel Partners,Germany,2013,December,1770.0,21240.0,2761.2,18478.8,5310.0,13168.8,71.26,High Margin
+Paseo,Midmarket,United States of America,2014,September,1767.0,26505.0,3710.7,22794.3,17670.0,5124.299999999999,22.48,High Margin
+Amarilla,Channel Partners,France,2014,October,1393.0,16716.0,2340.24,14375.76,4179.0,10196.76,70.93,High Margin
+Amarilla,Channel Partners,United States of America,2013,December,2015.0,24180.0,3385.2,20794.8,6045.0,14749.8,70.93,High Margin
+Carretera,Small Business,Canada,2014,October,1496.0,448800.0,62832.0,385968.0,374000.0,11968.0,3.1,Low Margin
+Carretera,Small Business,United States of America,2014,October,1010.0,303000.0,42420.0,260580.0,252500.0,8080.0,3.1,Low Margin
+Montana,Government,Germany,2014,April,1199.0,419650.0,58751.0,360899.0,311740.0,49159.0,13.62,Medium Margin
+Montana,Government,Canada,2014,May,200.0,70000.0,9800.0,60200.0,52000.0,8200.0,13.62,Medium Margin
+Montana,Government,Canada,2014,September,388.0,2716.0,380.24,2335.76,1940.0,395.7600000000002,16.94,Medium Margin
+Paseo,Government,Mexico,2014,February,260.0,5200.0,728.0,4472.0,2600.0,1872.0,41.86,High Margin
+Paseo,Midmarket,Canada,2013,September,2470.0,37050.0,5187.0,31863.0,24700.0,7163.0,22.48,High Margin
+Paseo,Channel Partners,United States of America,2014,October,2914.0,34968.0,4895.52,30072.48,8742.0,21330.48,70.93,High Margin
+Paseo,Government,Canada,2014,November,700.0,245000.0,34300.0,210700.0,182000.0,28700.0,13.62,Medium Margin
+Paseo,Channel Partners,Canada,2013,November,2222.0,26664.0,3732.96,22931.04,6666.0,16265.04,70.93,High Margin
+Paseo,Government,United States of America,2014,November,1177.0,411950.0,57673.0,354277.0,306020.0,48257.0,13.62,Medium Margin
+Velo,Enterprise,Mexico,2014,February,1575.0,196875.0,27562.5,169312.5,189000.0,-19687.5,-11.63,Low Margin
+VTT,Government,Mexico,2014,March,2903.0,20321.0,2844.94,17476.06,14515.0,2961.0600000000013,16.94,Medium Margin
+Amarilla,Channel Partners,France,2014,August,2475.0,29700.0,4158.0,25542.0,7425.0,18117.0,70.93,High Margin
+Amarilla,Channel Partners,United States of America,2014,October,2914.0,34968.0,4895.52,30072.48,8742.0,21330.48,70.93,High Margin
+Amarilla,Government,France,2014,October,1731.0,12117.0,1696.38,10420.619999999999,8655.0,1765.619999999999,16.94,Medium Margin
+Paseo,Government,Mexico,2014,May,2851.0,997850.0,149677.5,848172.5,741260.0,106912.5,12.61,Medium Margin
+Paseo,Midmarket,Canada,2014,August,2559.0,38385.0,5757.75,32627.25,25590.0,7037.25,21.57,High Margin
+Paseo,Midmarket,Germany,2014,October,1175.0,17625.0,2643.75,14981.25,11750.0,3231.25,21.57,High Margin
+Velo,Midmarket,France,2014,May,2826.0,42390.0,6358.5,36031.5,28260.0,7771.5,21.57,High Margin
+VTT,Midmarket,Germany,2014,July,492.0,7380.0,1107.0,6273.0,4920.0,1353.0,21.57,High Margin
+VTT,Channel Partners,United States of America,2014,May,1806.0,21672.0,3250.8,18421.2,5418.0,13003.2,70.59,High Margin
